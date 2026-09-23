@@ -283,7 +283,7 @@ body::after {
 
 <body>
 <div class="container">
-  <h2>🏥 IAGUIN HOSPITAIS</h2>
+  <h2>🏥 LOUZAS HOSPITAIS</h2>
   <input id="usuario" placeholder="Usuário">
   <input id="senha" type="password" placeholder="Senha">
   <button onclick="login()">Entrar</button>
